@@ -8,8 +8,8 @@
 ## ⚡ [SECTOR: GENEZA & FILOZOFIA EXISTENȚIALĂ]
 *Deconstruiesc realitatea în instrucțiuni atomice pentru a o reconstrui mai eficient.*
 
-🔹 **Identitate Ontologică:** Sunt Pirgari Slobozeanu, un hibrid între rigoarea matematică și fluiditatea artistică.
-🔹 **Rădăcini:** Format în ecosistemul Moldovei, unde pragmatismul se întâlnește cu o reziliență istorică.
+🔹 **Identitate Ontologică:** Sunt Pirgari Slobozeanu, un mix între rigoarea matematică și dorinta de descoper artistică.
+🔹 **Rădăcini:** Format în ecosistemul RepuMoldovei, unde pragmatismul se întâlnește cu o reziliență istorică.
 🔹 **Misiune:** Reducerea entropiei informaționale prin cod curat și soluții creative de impact.
 🔹 **Viziune:** Cred într-o lume unde tehnologia nu doar rezolvă probleme, ci inspiră prin estetică.
 🔹 **Stare Sistem:** Operare stabilă în medii cu înaltă densitate de sarcini (Ecosistemul „Ioana Ionescu”).
