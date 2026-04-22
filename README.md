@@ -1,131 +1,147 @@
-# 🎭 PIRGARI SLOBOZEANU | ARCHITECT OF REALITY
-> **`STATUS:`** 🚀 High-Performer | 🎓 Elev @ Liceul „Ioana Ionescu” (XII)
-> **`LOCAȚIE:`** 📍 Moldova, Nodul Central | **`VÂRSTĂ:`** 19 Rotații Solare
-> **`MOTO:`** *"Dacă universul este o eroare de compilare, eu sunt patch-ul de care are nevoie."*
+# 🎭 PIRGARI SLOBOZEANU | THE HUMAN COMPILER
+> **`NODE:`** 🚀 High-Performer | 🎓 Liceul „Ioana Ionescu” (Promoția 2026)
+> **`UPTIME:`** 19 Rotații Solare | **`ARCH:`** x64 Emotional & Logical Intelligence
+> **`STATUS:`** 🟢 Sistem optimizat. Gata pentru faza de expansiune universitară.
 
 ---
 
-## 🔬 [SECTOR 01]: NUCLEUL ONTOLOGIC (THE CORE)
-*Sunt suma proceselor mele; nu doar exist, ci mă optimizez constant.*
+## ⚡ [SECTOR: GENEZA & FILOZOFIA EXISTENȚIALĂ]
+*Deconstruiesc realitatea în instrucțiuni atomice pentru a o reconstrui mai eficient.*
 
-* **001.** 🆔 **Identitate:** Pirgari Slobozeanu – Arhitect de sistem uman și digital.
-* **002.** 🌍 **Origine:** Republica Moldova (Densitate maximă de sarcasm/bit).
-* **003.** 🎯 **Misiune:** Transformarea datelor brute în victorii cuantificabile.
-* **004.** 💡 **Filozofie:** „Erorile sunt doar oportunități de refactoring.”
-* **005.** ⏳ **Vârstă:** 19 ani de iterații constante asupra propriei conștiințe.
-* **006.** ⚡ **Bandwidth:** Procesare multi-tasking sub presiune critică.
-* **007.** 🗣️ **Limbaj Nativ:** Româna (compilată cu umor cinic).
-* **008.** 💻 **Limbaj Tehnic:** C++ (Unde logica devine realitate).
-* **009.** 🌐 **Limbaj Global:** Engleză C1 (Protocol de comunicare internațional).
-* **010.** 🏛️ **Baza:** Liceul Teoretic „Ioana Ionescu”.
-* **011.** 🔋 **Stare Sistem:** Operare stabilă în regim de privare de somn.
-* **012.** 🖥️ **Interfață:** Minimalistă, dar extrem de funcțională.
-* **013.** 🌪️ **Analiza Haosului:** Găsirea ordinii în medii entropice.
-* **014.** 🏔️ **Ambiție:** Scalarea personală la nivel global.
-* **015.** 🔒 **Integritate:** Hash-ul caracterului meu este imuabil.
-* **016.** 🔄 **Reziliență:** `try { viata } catch { continua }`
-* **017.** 🔭 **Curiozitate:** Explorarea tehnologiilor emergente.
-* **018.** 🧠 **Logică:** Decizii bazate pe date, nu pe zgomot de fond.
-* **019.** 🧗 **Adaptabilitate:** Reconfigurare instantanee după feedback.
-* **020.** 👁️ **Viziune:** Un viitor unde arta și codul sunt indistinctibile.
-* **021.** 📏 **Standard:** Nu accept „merge și așa”.
-* **022.** 🕯️ **Focus:** Deep Work pentru rezultate de elită.
-* **023.** 🤖 **Autonomie:** Funcționez la parametri maximi fără supraveghere.
-* **024.** 🧪 **Inovație:** Identificarea soluțiilor neconvenționale.
-* **025.** ✅ **Final Sector 01:** Nucleu stabil. Pregătit pentru execuție.
+🔹 **Identitate Ontologică:** Sunt Pirgari Slobozeanu, un hibrid între rigoarea matematică și fluiditatea artistică.
+🔹 **Rădăcini:** Format în ecosistemul Moldovei, unde pragmatismul se întâlnește cu o reziliență istorică.
+🔹 **Misiune:** Reducerea entropiei informaționale prin cod curat și soluții creative de impact.
+🔹 **Viziune:** Cred într-o lume unde tehnologia nu doar rezolvă probleme, ci inspiră prin estetică.
+🔹 **Stare Sistem:** Operare stabilă în medii cu înaltă densitate de sarcini (Ecosistemul „Ioana Ionescu”).
+🔹 **Loop Evolutiv:** `while(alive) { learn(); innovate(); refactor(); }` — Evoluția nu se oprește la diplomă.
+🔹 **Integritate:** Caracterul meu este compilat cu valori de onestitate, transparență și meritocrație.
+🔹 **Paradigma de Lucru:** Prefer "Deep Work" în locul multitasking-ului superficial pentru rezultate de elită.
+🔹 **Adaptabilitate:** Capabil să trec de la depanarea unui algoritm C++ la interpretarea unui poem în < 1 secundă.
+🔹 **Standarde:** Pentru mine, "perfect" este punctul de plecare, nu destinația finală.
 
 ---
 
-## 🛠️ [SECTOR 02]: ARSENALUL TEHNIC (STACK-UL DE ELITĂ)
-*Am transformat tastatura într-o extensie a sistemului nervos central.*
+## 🛠️ [SECTOR: ARSENALUL TEHNIC & INGINERIE]
+*Tastatura este o extensie a creierului meu. Codul este modul meu de a vorbi cu viitorul.*
 
-| 🛠️ Parametru Tehnic | 📈 Coeficient | 📝 Observații de Laborator |
+| 💾 Tehnologie | 📊 Capacitate Procesare | 📝 Observații de Laborator |
 | :--- | :---: | :--- |
-| **C++ (Core Logic)** | ![95%](https://progress-bar.dev/95/) | Algoritmi cu complexitate O(log n). |
-| **Python (Automation)** | ![85%](https://progress-bar.dev/85/) | Scripting pentru eliminarea task-urilor redundante. |
-| **SQL (Data Architecture)** | ![75%](https://progress-bar.dev/75/) | Gestiune baze de date relaționale (Proiect Atestat). |
-| **Debugging & QA** | ![100%](https://progress-bar.dev/100/) | Identificarea erorilor înainte de compilare. |
-| **Web UI/UX (HTML/CSS)** | ![80%](https://progress-bar.dev/80/) | Randare bazată pe Secțiunea de Aur (Φ). |
+| **C++ Standard** | ![95%](https://progress-bar.dev/95/) | Limbajul în care îmi definesc arhitecturile logice. |
+| **Python Scripting** | ![85%](https://progress-bar.dev/85/) | Rapiditate în automatizare și prototipare rapidă. |
+| **SQL Architecture** | ![75%](https://progress-bar.dev/75/) | Gestiunea structurilor de date complexe (Atestat). |
+| **Debugging & QA** | ![100%](https://progress-bar.dev/100/) | Identificarea erorilor prin analiză statică și intuiție. |
+| **Web Development** | ![80%](https://progress-bar.dev/80/) | Implementarea interfețelor care respectă Secțiunea de Aur. |
 
-* **031.** 🔍 **Algoritmi:** Eficiență maximă în seturi de date masive.
-* **032.** 🧱 **Structuri de Date:** Management optim (Stive, Cozi, Arbori).
-* **033.** 🗺️ **Teoria Grafurilor:** Aplicată în optimizarea rutelor urbane.
-* **034.** ⌨️ **Linux CLI:** Stăpânirea terminalului ca mod principal de lucru.
-* **035.** 📜 **Git Versioning:** Managementul istoriei mele de dezvoltare.
-* **036.** ⚙️ **Hardware Diagnosis:** Identificarea defectelor la nivel de circuit.
-* **037.** 📡 **Networking:** Înțelegerea protocoalelor TCP/IP.
-* **038.** 🛡️ **Cybersecurity:** Igienă digitală și protecția datelor.
-* **039.** 🚀 **VS Code Power User:** Mediu optimizat pentru viteză.
-* **040.** 📊 **Excel Elite:** Instrument de calcul, nu doar tabel.
-* **041-075.** 📂 **Sub-procese:** JSON, Markdown, Multi-threading, RegEx... [Audit Complet].
+💠 **Algoritmică Avansată:**
+   - Stăpânirea structurilor de tip graf, arbori binar de căutare și liste dinamice.
+   - Optimizarea timpului de execuție de la O(n²) la O(n log n) prin tehnici de Divide et Impera.
+   - Rezolvarea problemelor de programare dinamică cu o eficiență de 100% la nivel de liceu.
 
----
+💠 **Controlul Versiunilor (Git):**
+   - Managementul ramificațiilor (branching) pentru dezvoltare paralelă.
+   - Documentarea riguroasă a fiecărui "commit" pentru trasabilitatea logică.
 
-## 🎨 [SECTOR 03]: RANDARE ANALOGICĂ (MODULE CREATIVE)
-*Demonstrez că un creier algoritmic poate genera emoție pură prin Φ.*
+💠 **Sisteme de Operare & CLI:**
+   - Navigare avansată în terminalul Linux (Ubuntu/Debian).
+   - Automatizarea fluxurilor de lucru prin Bash scripting și alias-uri personalizate.
 
-* **076.** ✏️ **Mecanică Grafică:** Arta desenului ca proces de captare a realității.
-* **077.** 🖼️ **Precizie Analogică:** Desen grafit la rezoluție biologică maximă.
-* **078.** 🌈 **Teoria Culorilor:** Aplicarea contrastelor pentru impact vizual.
-* **079.** 🎨 **Pictură Acrilică:** Manipularea fluidelor pentru randare artistică.
-* **080.** ⚖️ **Compoziție:** Echilibrarea elementelor într-un cadru finit.
-* **081.** 🔱 **Secțiunea de Aur:** Utilizarea Φ în orice proiect vizual.
-* **082.** ✍️ **Inginerie Lingvistică:** Poezia ca formă de compresie a emoției.
-* **083.** 🌫️ **Metaforă:** Maparea stărilor afective pe obiecte externe.
-* **084.** 🎶 **Metrică și Rimă:** Algoritmi de eufonie în poezie.
-* **085.** 📜 **Filozofie:** Studiu ontologic asupra existenței și tehnologiei.
-* **086.** 🏛️ **Analiza Estetică:** Deconstrucția frumosului în parametri.
-* **087.** ✒️ **Caligrafie:** Păstrarea tradiției prin scriere lizibilă.
-* **088.** 📽️ **Storyboarding:** Vizualizarea narativă a fluxurilor.
-* **089.** 🎭 **Design de Caracter:** Profiluri psihologice prin linii.
-* **090.** ⏱️ **Schiță Rapidă:** Capturarea esenței în < 60 secunde.
-* **091-125.** 🎭 **Expansiune:** Ilustrație, 3D, Simbolism... [Creativitate MAX].
+💠 **Mentenanță Hardware:**
+   - Diagnosticarea defectelor la nivel de componentă (RAM, CPU, Motherboard).
+   - Reconfigurarea sistemelor BIOS/UEFI pentru performanță termică optimă.
+
+💠 **Securitate Digitală:**
+   - Implementarea protocoalelor de bază pentru protecția datelor sensibile.
+   - Înțelegerea conceptelor de criptare simetrică și asimetrică.
 
 ---
 
-## 🤝 [SECTOR 04]: LEADERSHIP & IMPACT (ELITE PERFORMANCE)
-*Leadership-ul nu este despre putere, ci despre rezultate lăsate în urmă.*
+## 🎨 [SECTOR: RANDARE ANALOGICĂ & ESTETICĂ]
+*Demonstrez că un creier algoritmic posedă un modul de frumos divin.*
 
-* **126.** 💡 **Intraprenoriat:** Am identificat ineficiența bazei de date și am rezolvat-o.
-* **127.** 📉 **Impact:** Reducerea timpului de procesare cu **42%**.
-* **128.** 🧑‍🏫 **Mentorat:** Am ghidat 4 colegi, crescând succesul cu **25%**.
-* **129.** 🔌 **Voluntariat IT:** Uptime de 100% pentru Liceul „Ioana Ionescu”.
-* **130.** 📋 **Project Management:** Coordonarea resurselor pentru Atestat.
-* **131.** 🎤 **Public Speaking:** Prezentarea conceptelor complexe simplu.
-* **132.** 🤝 **Etică:** Integritate absolută în gestionarea datelor.
-* **133.** ⚡ **Inițiativă:** Nu cer voie să repar ceea ce este stricat.
-* **134.** 🕊️ **Diplomație:** Navigarea prin ierarhii cu tact.
-* **135.** 🧘 **Reziliență:** Calm total în timpul crash-urilor de sistem.
-* **136-175.** 🎖️ **Module Leadership:** Negociere, Team Building, Vision... [Impact].
+🎨 **Arta Vizuală (Mecanică Grafică):**
+   - Utilizarea grafitului pentru a crea umbre care sfidează bidimensionalitatea hârtiei.
+   - Pictură în acrilic unde controlul culorilor este la fel de precis ca un tabel de culori hexazecimale.
+   - Aplicarea constantă a raportului Φ pentru a ghida ochiul privitorului spre centrul de interes.
 
----
+🎨 **Inginerie Lingvistică (Poezie & Proză):**
+   - Compilarea sentimentelor în structuri de versuri cu metrică și rimă impecabile.
+   - Utilizarea metaforelor ca algoritmi de compresie pentru idei filozofice complexe.
+   - Crearea de narațiuni scurte care explorează condiția umană în era digitală.
 
-## 🏆 [SECTOR 05]: VICTORII ȘI VALIDĂRI (ACHIEVEMENTS)
-*Validarea externă a unui parcurs intern de excepție.*
+🎨 **Design de Concept:**
+   - Schițarea rapidă a interfețelor (wireframing) înainte de implementarea digitală.
+   - Atenție obsesivă la spațiul alb (white space) pentru a lăsa compoziția să respire.
+   - Teoria culorilor aplicată atât pe pânză, cât și în designul de site-uri web premium.
 
-* **176.** 🏅 **Olimpiada Județeană:** Performanță de top (2024-2026).
-* **177.** 🎓 **Atestat Profesional:** Arhitectură software evaluată la maxim.
-* **178.** 📜 **Diploma de Merit:** Recunoaștere oficială pentru implicare.
-* **179.** 🗣️ **Social Proof:** „Cel mai analitic creier” – Mentor Academinc.
-* **180.** 💎 **Certificări:** Validarea competențelor la nivel național.
-* **181.** 🎨 **Art Awards:** Premii la concursuri de pictură și creație.
-* **182.** 📈 **Simulări:** Rezultate ce confirmă pregătirea de elită.
-* **183.** 🐙 **GitHub:** Cod verificat și auditat de comunitate.
-* **184.** 🎗️ **Impact Civic:** Certificat de voluntariat (Support IT).
-* **185.** 🔝 **Evoluție:** Trecerea de la elev la performer în 4 ani.
+🎨 **Expresie Creativă Continuă:**
+   - Fotografie de detaliu unde focalizarea este pe texturi și unghiuri neconvenționale.
+   - Caligrafie modernă pentru a păstra legătura dintre mână și gândul scris.
 
 ---
 
-## 📡 [SECTOR 06]: PROTOCOALE DE CONTACT
-*Interfața pentru schimburi de date și colaborări de mare impact.*
+## 🤝 [SECTOR: LEADERSHIP CIVIC & IMPACT STRATEGIC]
+*Leadership-ul nu este despre mine, ci despre rezultatul pe care îl lăsăm împreună.*
+
+🚀 **Intraprenoriat Academic:**
+   - Am identificat ineficiența gestionării resurselor în laborator și am propus soluții.
+   - Implementarea propriului sistem de gestiune a redus timpul de procesare cu un coeficient de **42%**.
+
+🚀 **Mentoratul colegial (Peer-to-Peer):**
+   - Coordonarea activă a unui grup de studiu pentru proba de informatică.
+   - Rezultat: Creșterea succesului colectiv cu **25%** și reducerea anxietății de examen.
+
+🚀 **Voluntariat Tehnic de Elită:**
+   - Asigurarea uptime-ului infrastructurii IT a liceului „Ioana Ionescu” pe bază de voluntariat.
+   - Intervenții rapide în situații de criză tehnica, garantând succesul evenimentelor școlare.
+
+🚀 **Comunicare & Soft Skills:**
+   - Capacitatea de a traduce jargonul tehnic în concepte ușor de digerat pentru neinițiați.
+   - Rezolvarea conflictelor în cadrul echipelor de proiect prin logică și empatie.
+
+---
+
+## 🏆 [SECTOR: VALIDARE EXTERNĂ & VICTORII]
+*Validarea empirică a unui parcurs de înaltă performanță.*
+
+⭐ **Olimpiade:** Rezultate consistente la nivel județean, demonstrând rezistență în condiții de concurs.
+⭐ **Atestat Profesional:** Lucrare complexă de gestiune, apreciată pentru eleganța codului și interfață.
+⭐ **Premii de Excelență:** Recunoașteri oficiale pentru implicarea extra-curriculară și leadership.
+⭐ **Validare de Mentor:** „Pirgari este entitatea care nu doar rezolvă problema, ci o redefinește.”
+⭐ **Recunoaștere Artistică:** Expoziții locale de desen care confirmă versatilitatea talentului meu.
+⭐ **Evoluție Constantă:** De la un elev curios la un performer care livrează valoare adăugată constant.
+
+---
+
+## ☕ [SECTOR: INFRASTRUCTURĂ PERSONALĂ & METABOLISM]
+*Resursele care alimentează motorul de performanță.*
+
+🔸 **Sistem de Energie:** Conversia cafeinei de înaltă calitate în linii de cod funcționale.
+🔸 **Managementul Timpului:** Utilizarea tehnicii Pomodoro și a blocării timpului pentru Deep Work.
+🔸 **Mediu de Lucru:** Un setup minimalist, optimizat pentru reducerea distragerilor vizuale.
+🔸 **Curiozitate Epistemologică:** Citesc manuale tehnice și filozofie cu aceeași sete de cunoaștere.
+🔸 **Stabilitate Emoțională:** Rezistență ridicată la critici constructive și dorință de auto-perfecționare.
+🔸 **Hobby-uri Analitice:** Gaming de strategie (Chess/RTS) pentru antrenarea gîndirii tactice.
+🔸 **Audit Săptămânal:** Reevaluarea obiectivelor personale și ajustarea traiectoriei de succes.
+🔸 **Viziune Viitor:** Pregătire intensă pentru admiterea la o facultate de elită în domeniul IT.
+
+---
+
+## 📡 [SECTOR: PROTOCOALE DE CONTACT & NETWORKING]
+*Deschis pentru schimburi de date de mare impact.*
 
 | 📬 Canal | 🔗 Endpoint |
 | :--- | :--- |
 | **Email Direct** | `pirgari.slobozeanu@highperformance.md` |
 | **LinkedIn** | [linkedin.com/in/pirgarislobozeanu](https://linkedin.com) |
-| **Geolocație** | `47.0105° N, 28.8638° E` (Moldova) |
-| **GitHub** | [github.com/pirgarislobozeanu](https://github.com) |
+| **Geolocație** | `47.0105° N, 28.8638° E` (Chișinău, Moldova) |
+| **GitHub Repo** | [github.com/pirgarislobozeanu/manifesto](https://github.com) |
+| **Portofoliu Artă** | [link-catre-arta-ta.md] |
 
 ---
 <p align="center">
-  <img src="https
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d1b2&height=120&section=footer&text=SLOBOZEANU:%20ELEVATING%20STANDARDS&fontSize=25&animation=fadeIn" />
+  <br>
+  <b>© 2026 Pirgari Slobozeanu — Realitate Optimizată la Persoana I.</b>
+  <br>
+  <i>"Nu suntem ceea ce știm, ci ceea ce facem cu ceea ce știm."</i>
+</p>
